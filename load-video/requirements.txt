@@ -1,0 +1,4 @@
+torchvision
+pillow
+opencv-python
+pathlib
